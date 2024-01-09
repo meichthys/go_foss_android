@@ -2,7 +2,7 @@
 
 After much search and peril I have compiled this list which I believe to be the best set of FOSS Android apps that support my (and hopefully most people's) full software requirements.
 
-This list does not try to list ALL foss android apps (see [offa/android-foss](https://github.com/offa/android-foss)), but rather the best app in each category that fits my use daily use case. 
+⚠️ This list does not try to list ALL foss android apps (see [offa/android-foss](https://github.com/offa/android-foss)), but rather the best app in each category that fits <i>my</i> daily use case. 
 
 ## 📋 The List
 

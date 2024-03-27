@@ -46,3 +46,10 @@ Much of my perilous search was improved by the following resources:
 Contributions are welcome, but please keep in mind, this list is an 'opinionated' list on which I will make the final determination. Suggestions for different apps are highly recommended since I may have missed some apps (or app features) in my perilous search.
 
 ## 🗒️ License: MIT
+
+## 💰 Support
+
+Maintaining this list of projects takes significant time. If you found this list helpful, please let me know by considering supporting me. This lets me know that someone is finding this project useful and gives me an incentive to keep it up to date.
+You can support me on Liberapay or Github Sponsors:
+
+<a href="https://liberapay.com/meichthys/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
